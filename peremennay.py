@@ -1,2 +1,3 @@
 car = "ford focus"
-print(car)
+best = car
+print(car,best)
